@@ -1,5 +1,0 @@
-{{#user}}
-Name: Mohanraj
-Skills: Java, Python, C, HTML, CSS, JS, Node.js
-Email: mohanvenkat1708@gmail.com
-{{/user}}
